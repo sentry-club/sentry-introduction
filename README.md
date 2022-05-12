@@ -6,7 +6,7 @@ Este documento faz a apresentação prática dos principais conceitos relacionad
 
 Antes de iniciar o conteúdo deste material, é importante entender a forma de funcionamento do Sentry e os conceitos que a ferramenta utiliza nesse processo. Na figura abaixo, tem-se o fluxo geral de funcionamento do Sentry.
 
-![[assets/sentry-workflow.png]]
+![[assets/sentry-workflow.png]](assets/sentry-workflow.png)
 
 Como pode-se observar, existem duas peças principais em um cenário de funcionamento do Sentry:
 - Sentry Server: Servidor Sentry que é o responsável por armazenar erros recebidos dos clientes e os armazenar de modo que seja fácil para os desenvolvedores realizarem sua avaliação;
